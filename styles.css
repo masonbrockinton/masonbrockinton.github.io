@@ -8,7 +8,7 @@ body {
    display:flex;
    padding:10px;
    margin:10px;
-   background:lightgreen;
+   background:floralwhite;
 } 
 
 .assignment img {
@@ -16,8 +16,17 @@ body {
     padding:10px;
 }
 
+.assignment img {
+    border:4px solid black;
+}
+
 
 h1 {
     color:black;
     text-align:center;
+}
+
+a {
+    text-decoration: none;
+    color:black;
 }
