@@ -4,6 +4,11 @@ body {
 
 }
 
+.assignments {
+    display:flex;
+
+}
+
 .assignemnt {
    display:flex;
    padding:10px;
